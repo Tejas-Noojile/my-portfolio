@@ -133,10 +133,10 @@ section{
 
 
 .main-container .image{
-    max-width: 600px;
-    min-height: 350px;
-    width: 100%;
-    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    /* width: 100%; */
+    /* overflow: hidden; */
 }
 
 .main-container .image img{
